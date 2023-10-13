@@ -9,7 +9,7 @@ nextConfig = {
       return [
         {
           source: '/',
-          destination: '/dashboard',
+          destination: '/testpage',
           permanent: true
         }
       ];

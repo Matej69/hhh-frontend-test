@@ -1,5 +1,7 @@
+import './globals.css'
 import Image from 'next/image'
 import styles from './intro.module.css'
+
 
 export default function Intro() {
   return (
